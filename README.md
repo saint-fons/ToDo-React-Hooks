@@ -9,6 +9,6 @@
 * Статус "Завершено для задачи"
 * Переключение темы по иконке звезды (ThemeProvider)
 
-## npm init для установки node_modules
+## npm install для установки node_modules
 ## npm start для запуска проекта
 ## npm build для продакшен версии
